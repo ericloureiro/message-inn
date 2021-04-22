@@ -1,0 +1,12 @@
+{
+  "name": "message-inn",
+  "displayName": "message-inn",
+  "expo": {
+    "name": "message-inn",
+    "slug": "message-inn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

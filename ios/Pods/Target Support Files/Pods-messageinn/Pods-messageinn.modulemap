@@ -1,0 +1,6 @@
+module Pods_messageinn {
+  umbrella header "Pods-messageinn-umbrella.h"
+
+  export *
+  module * { export * }
+}
